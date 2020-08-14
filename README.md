@@ -54,3 +54,4 @@ pip install tiktok-bot
 ```
 
 tiktok-bot requires Python 3.6+
+[![Run on Repl.it](https://repl.it/badge/github/sudoguy/tiktok_bot)](https://repl.it/github/sudoguy/tiktok_bot)
